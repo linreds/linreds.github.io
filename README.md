@@ -17,7 +17,8 @@
 **📌 Дипломная работа**
 
 > «Автоматизация гибридного Honeypot-решения»
-[![Репозиторий](https://img.shields.io/badge/GitHub-Посмотреть_проект-181717?style=for-the-badge&logo=github)](https://github.com/ваш_username/название_репозитория)
+[![Репозиторий](https://img.shields.io/badge/GitHub-Посмотреть_проект-181717?style=for-the-badge&logo=github)](https://github.com/linreds/diplom)
+
 Разработана система на базе T-Pot с использованием Docker, Suricata и ELK-стека. Реализованы:
 - централизованный сбор и анализ событий безопасности
 - автоматическое реагирование на вторжения
