@@ -1,73 +1,53 @@
-👩‍💻 Polina Ulyanova
-<p align="center"> <b>Backend Developer • DevSecOps Enthusiast • Cybersecurity Student</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Focus-DevSecOps-blue" /> <img src="https://img.shields.io/badge/Security-OWASP%20Top%2010-red" /> <img src="https://img.shields.io/badge/Cloud-Yandex%20Cloud-lightgrey" /> <img src="https://img.shields.io/badge/Linux-Experienced-black" /> </p>
-🚀 About Me
-🎓 Cybersecurity student (Telecommunications Security)
-💼 2+ years experience as a developer (1C / integrations / backend)
-⚙️ Building automation systems and internal tools
-🔐 Interested in DevSecOps, infrastructure, and application security
-🧰 Tech Stack
-💻 Languages
+## Привет 👋 Меня зовут Полина Ульянова!
 
+### 👩‍💻 Обо мне
 
+Я программист-разработчик с опытом от создания прототипов до внедрения готовых решений. Мой путь в IT начался с 1С, но сейчас я активно развиваюсь вне этой экосистемы — в сторону DevOps/DevSecOps, системной аналитики и управления современной IT-инфраструктурой.
 
+- 🔭 За 2.5 года в «МС-Сервис Северо-Запад» разработала CRM-систему, приложение для управления апартаментами и мобильное приложение на Kotlin, а также настроила интеграцию сайта с 1С через 1С:Шину.
+## 🎓 Высшее образование
 
+### Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А. Бонч-Бруевича
+**Факультет кибербезопасности** · 2020–2026
 
+> Специальность: *Информационная безопасность телекоммуникационных систем*
 
+---
 
+**📌 Дипломная работа**
 
+> «Автоматизация гибридного Honeypot-решения»
 
+Разработана система на базе T-Pot с использованием Docker, Suricata и ELK-стека. Реализованы:
+- централизованный сбор и анализ событий безопасности
+- автоматическое реагирование на вторжения
+- управление контейнеризованными сервисами (приложение на Python)
 
-⚙️ DevOps & Infrastructure
+**Стек:** `Linux` `Docker` `ELK` `Suricata` `Python` `T-Pot` `Ansible`
 
+### 🛠 Технологии и инструменты:
 
+**Языки:** Python, Kotlin, Java, 1С, Bash, Ассемблер  
+**DevOps/Infra:** Docker, Ansible, Terraform, Linux (Ubuntu/Kali/Astra), Windows Server  
+**Security:** OWASP Top 10, Suricata, Wazuh, Burp Suite, nmap, Metasploit, Secret Net, Соболь, Falcongaze  
+**Виртуализация и мониторинг:** VMware, VirtualBox, ELK Stack, T-Pot
 
+### 📕 Публикации
 
+- [МОДЕЛИ УГРОЗ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ СПУТНИКОВОГО ИНТЕРНЕТА](https://elibrary.ru/eppxay)
+- [ИСПОЛЬЗОВАНИЕ T-POT ДЛЯ ПОВЫШЕНИЯ БЕЗОПАСНОСТИ
+КОРПОРАТИВНОЙ СЕТИ](https://elibrary.ru/item.asp?id=88949646)
 
+### 📚 Курсы и дополнительное образование
+- 🛡️ **2026** — «Case Lab «Виртуализация» — *Гринатом*
+- 🛡️ **2025** — «Погружение в сетевую безопасность» — *Яндекс Практикум*
+- 🌐 **2025** — «Использование коммутаторов Eltex MES» — *Академия Eltex*
+- 🔗 **2023** — «Использование маршрутизаторов Eltex ESR» — *Академия Eltex*
+- 📱 **2023** — «1С: программировать легко» — *СПбГУТ*
 
+### 📫 Как со мной связаться
 
+- Telegram: @Ne_uliana
+- Email: pa.ulyanova@yandex.ru
 
-🔐 Security
-
-
-
-
-
-
-
-
-💼 Experience
-🧩 Software Developer (2023 — 2026)
-Built CRM system with integrations and document automation
-Developed apartment management system (booking + tasks automation)
-Implemented Telegram-based workflows and notifications
-Automated 1C administration processes
-Built mobile app (Kotlin) for internal communication
-Integrated services via 1C Bus and APIs
-📌 Featured Projects
-🔐 Honeypot Automation System
-Stack: Docker + ELK + Suricata + Python
-Hybrid honeypot based on T-Pot
-Centralized log collection and analysis
-Automated incident response
-Container infrastructure management
-🏢 Business Automation Systems
-CRM and internal tools
-Workflow automation
-System integrations
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" /> </p>
-📚 Education
-
-🎓 Telecommunications University (Cybersecurity)
-Specialization: Information Security
-
-🌍 Languages
-🇷🇺 Russian — Native
-🇬🇧 English — B2
-📫 Contact
-📧 pa.ulyanova@yandex.ru
-💬 Telegram: @your_username_here
-⚡ Currently Learning
-DevSecOps practices
-Cloud infrastructure
-Application security
+---
